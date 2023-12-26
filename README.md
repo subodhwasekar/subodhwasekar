@@ -8,7 +8,7 @@
 
 ## 🔬 Data Science Stack
 
-- 🐍 Python | R | SQL
+- 🐍 Python | SQL
 - 📊 Data Visualization: Matplotlib, Seaborn, Plotly
 - 📈 Machine Learning: Scikit-Learn, TensorFlow, PyTorch, Keras
 - 📚 Data Analysis: Pandas, NumPy
