@@ -20,7 +20,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=subodhwasekar&show_icons=true&hide=contribs,prs&theme=midnight-purple)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=subodhwasekar&show_icons=true&hide=contribs,prs&theme=swift)
 
 <div align="center">
 
